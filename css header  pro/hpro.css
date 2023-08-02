@@ -1,0 +1,81 @@
+.f1
+{
+    border: 6px solid skyblue;
+    background-color:skyblue ;
+    border-width: 15px;
+    color: white;
+    margin-bottom: 100px;
+    margin-right:150px;
+    
+}
+.f2{
+    border:10px solid rgb(33, 245, 33);
+    background-color: rgb(68, 245, 68);
+    color: white;
+    margin-left:100px;
+    margin-right:1400px;
+    margin-top:-100px;
+    height:150px;
+    text-align: center;
+
+}
+
+
+
+.f3{
+    border:10px solid violet;
+    background-color: violet;
+    color: white;
+    margin-right:1000px;
+    text-align: center;
+    margin-left:505px;
+    margin-top:-250px;
+    width: 180px;
+
+  
+  
+    height: 150px;
+}
+.f4{
+    color: white;
+    margin-bottom: 50px;
+    margin-right: 1400px;
+    margin-top: -14px;
+    height: 150px;
+    text-align: center;
+    border:10px solid orangered; 
+    background-color: orangered;
+    color: white; 
+    margin-left: 100px;
+    width: 280px;
+}
+.f5{
+    border: 10px solid orangered;
+    background-color:orangered;
+    color: white;
+    margin-bottom: 100px;
+    margin-right: 1100px;
+    margin-top: -220px;
+    height: 150px;
+    text-align: center;
+    margin-left: 405px;
+    width: 280px;
+}
+.f6{
+    border: 10px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    margin-top: -99px;
+    margin-right: 150px;
+}
+
+.t-class{
+text-align: center;
+}
+.demo{
+    padding-top: 57px; 
+}
+.class-div{
+    border: 1px solid gray;
+}
+
